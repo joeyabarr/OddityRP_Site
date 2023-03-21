@@ -1366,3 +1366,6 @@
 .fa-try:before {
   content: "\f195";
 }
+.fa-discord:before {
+  content: "\f392";
+}
